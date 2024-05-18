@@ -1,0 +1,2 @@
+from data_acquisition_tab import DataAcquisitionTab
+from control_tab import ControlTab
