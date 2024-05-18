@@ -2,7 +2,7 @@
 
 ## Project Structure
 
-    ```Python
+      ```python
     robot_soccer/
     │
     ├── main.py
@@ -35,4 +35,4 @@
         ├── test_image_processing.py
         ├── test_strategy.py
         ├── test_communication.py
-    ````
+      ```
