@@ -1,5 +1,7 @@
 # Robot_Soccer
 
+Application (platform) to manage information about the control and command of a soccer match of autonomous robots.
+
 ## Project Structure
 
     ```
